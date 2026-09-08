@@ -55,5 +55,4 @@ To fabricate the PCB, upload [`Gerber/gerber.7z`](./Gerber/gerber.7z) (or the in
 The badge enclosure is modeled in FreeCAD (`Case/Digital_Card_Case_3_BADGE.FCStd`). A 3D nameplate model (`case-nameplate.glb`) can be previewed directly in a browser using [`Digital_C-Case_Viewer.html`](./Digital_C-Case_Viewer.html).
 
 ## License
-
-Add your preferred license here.
+N/A
