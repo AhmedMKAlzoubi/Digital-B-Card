@@ -46,15 +46,15 @@ All three bodies share the same tray, cover, and four-screw pattern — a board 
 
 ### The Card
 The baseline body. 11 mm thin, back sealed as one unbroken surface. Lives in a wallet.
-- **Footprint:** 104.6 × 69.6 mm — **Thickness:** 11.1 mm — **Mass:** 37.6 g
+- **Footprint:** 104.6 × 69.6 mm — **Thickness:** 11.1 mm — **Mass:** estimate: 37.6 g
 
 ### The Nameplate
 A desk stand version — leans 18° from vertical, putting the screen at 47.6 mm above the desk surface with USB-C on the top edge.
-- **Standing:** 104.6 × 36.1 × 78.3 mm — **Mass:** 103 g
+- **Standing:** 104.6 × 36.1 × 78.3 mm — **Mass:** estimate: 103 g
 
 ### The Badge
 Includes an L-shaped flange with four obround lanyard slots. Can hang in landscape or portrait orientation.
-- **Outline:** 114.6 × 79.6 mm — **Thickness:** 11.1 mm — **Mass:** 45.8 g
+- **Outline:** 114.6 × 79.6 mm — **Thickness:** 11.1 mm — **Mass:** estimate: 45.8 g
 
 ---
 
